@@ -1,0 +1,15 @@
+{
+  "name": "babel-issue-11686",
+  "version": "1.0.0",
+  "description": "Reproduces https://github.com/babel/babel/issues/11686",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@babel/cli": "7.12.16",
+    "@babel/core": "7.12.16",
+    "@babel/plugin-transform-react-constant-elements": "7.12.13",
+    "@babel/plugin-transform-react-jsx": "7.12.16",
+    "react": "^17.0.1"
+  }
+}
